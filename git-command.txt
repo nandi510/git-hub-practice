@@ -1,1 +1,90 @@
-This is my git commands notes
+  897  git status
+  898  git rm --cache testing.py
+  899  git status
+  900  git add testing.py
+  901  git status
+  902  git commit -m "added testing file"
+  903  git status
+  904  rm testing.py
+  905  ls
+  906  git status
+  907  git restore testing.py
+  908  git status
+  909  touch git-command
+  910  mv git-command git-command.txt
+  911  ls
+  912  git status
+  913  git add git-command.txtr
+  914  git add git-command.txt
+  915  ls
+  916  git add .
+  917  git remote add origin https://github.com/nandi510/github-for-devops.git
+  918  ls
+  919  git remote -v
+  920  git status
+  921  git push origin master
+  922  git remote set-url origin https://ghp_1@github.com/nandi510/github-for-devops.git
+  923  git remote -v
+  924  git push origin master
+  925  history
+  926  git branch
+  927  cd ..
+  928  mkdir test-demo
+  929  cd test-demo/
+  930  git clone https://github.com/nandi510/github-for-devops.git
+  931  ls
+  932  cd github-for-devops/
+  933  git status
+  934  git branch
+  935  git historey
+  936  history
+  937  git add .
+  938  git status
+  939  ls
+  940  git add .
+  941  ls
+  942  cd ..
+  943  ls
+  944  cd github-for-devops/
+  945  ls
+  946  git add .
+  947  git status
+  948  git push origin master
+  949  ls
+  950  git push
+  951  git push --set-upstream origin master
+  952  git remote set-url origin https:/@github.com/nandi510/github-for-devops.git
+  953  ls
+  954  git add .
+  955  git status
+  956  git commit -m "added new file"
+  957  git push
+  958  pwd
+  959  ls
+  960  cat git-command.txt 
+  961  git add .
+  962  git status
+  963  git commit -m "added new file"
+  964  git push
+  965  cd ..
+  966  mkdir github-for-devops-new
+  967  cd github-for-devops-new/
+  968  git
+  969  git url
+  970  git clone https://github.com/nandi510/github-for-devops.git
+  971  ls
+  972  cd github-for-devops/
+  973  ls
+  974  cat git-new-command.txt
+  975  ls
+  976  cd github-for-devops/
+  977  ls
+  978  git add .
+  979  git status
+  980  git commit -m "added content"
+  981  cd ..
+  982  ls
+  983  pwd
+  984  git remote add origin https://github.com/nandi510/git-hub-practice.git
+  985  git init
+  986  git remote add origin https://github.com/nandi510/git-hub-practice.git
